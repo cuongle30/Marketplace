@@ -24,6 +24,7 @@ function Home () {
             rating={3}
           />
         </div>
+
         <div className='home-row'>
           <Product
             id='3'
@@ -47,6 +48,7 @@ function Home () {
             rating={5}
           />
         </div>
+        
         <div className='home-row'>
           <Product
             id='6'
